@@ -1,3 +1,5 @@
 python -m virtualenv venv
 
+
+cd fbAuto
 .\venv\Scripts\activate
